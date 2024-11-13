@@ -11,7 +11,7 @@ Un sistema simple de gestión de tareas desarrollado en Python con SQLite.
 - Almacenamiento persistente con SQLite
 
 ## Requisitos
-
+#
 - Python 3.x
 - SQLite3
 
