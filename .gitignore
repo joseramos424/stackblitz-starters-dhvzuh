@@ -4,7 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
+<<<<<<< HEAD
 .yarn/install-state.gz
+=======
+>>>>>>> 1b54fe59c1fb0c8619d0f8941adc65a3343d6e8e
 
 # testing
 /coverage
@@ -34,6 +37,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 
 # Python
 __pycache__/
@@ -74,3 +78,5 @@ ENV/
 # Sistema operativo
 .DS_Store
 Thumbs.db
+=======
+>>>>>>> 1b54fe59c1fb0c8619d0f8941adc65a3343d6e8e
